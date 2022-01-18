@@ -1,0 +1,10 @@
+.headerDesign {
+    width: 90%;
+    max-width: 43rem;
+    padding: 1rem;
+    border-radius: 12px;
+    background-color: white;
+    margin: 3rem auto;
+    margin-bottom: 50px;
+    text-align: center;
+}
